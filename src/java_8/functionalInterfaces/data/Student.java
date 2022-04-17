@@ -1,4 +1,4 @@
-package java_8.functionalInterfaces.consumer.example;
+package java_8.functionalInterfaces.data;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,9 @@
 package java_8.functionalInterfaces.consumer.example;
 
 
+import java_8.functionalInterfaces.data.Student;
+import java_8.functionalInterfaces.data.StudentDataBase;
+
 import java.util.List;
 import java.util.function.Consumer;
 
